@@ -1,4 +1,4 @@
-This will demonstrate a hands-off complete security testing cycle for a demo application
+This will demonstrate a hands-off complete security testing cycle for a demo app
 
 
 - Committing code to a GitHub repo
